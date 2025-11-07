@@ -8,7 +8,6 @@ This theme bridges organic imperfection with mechanical elegance — a cyber-sam
 
 # Backgrounds
 <img width="1920" height="1080" alt="HOhWv6M" src="https://github.com/user-attachments/assets/43c6a2d3-68eb-4f7d-a9a2-6e257c27e7bd" />
-![rahul-designer-20](https://github.com/user-attachments/assets/eb2f77de-1abb-4bb9-b032-cbd50606d55d)
 
 
 
