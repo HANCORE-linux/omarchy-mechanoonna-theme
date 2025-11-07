@@ -25,6 +25,13 @@ For Vesktop users, you can install this theme by copying (usally from ~/Download
 cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.lmechanoonna.css
 ```
 
+## VSCode, ZED, Spotify , GTK Support
+- all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
+
+## Superfile Support
+- created a Theme for superfile
+- copy mechanoonna.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'mechanoonna' ```
+
 ## Waybar-Theme
 For my Waybar-Theme (V3 config & shadow_style_css) simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
