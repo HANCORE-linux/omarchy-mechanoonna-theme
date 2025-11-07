@@ -1,0 +1,37 @@
+# Mecha no Onna
+Mecha no Onna blends the warmth of humanity with the precision of the machine, inspired by the earthy tones of Gruvbox. 
+This theme bridges organic imperfection with mechanical elegance — a cyber-samurai aesthetic for Arch Linux, where tradition meets circuitry and emotion glows in amber light.
+# Screenshots
+<img width="2560" height="1440" alt="screenshot-2025-11-06_23-49-18" src="https://github.com/user-attachments/assets/4202303d-97ef-4c9a-887b-f78118807640" />
+
+
+
+# Backgrounds
+<img width="1920" height="1080" alt="HOhWv6M" src="https://github.com/user-attachments/assets/43c6a2d3-68eb-4f7d-a9a2-6e257c27e7bd" />
+![rahul-designer-20](https://github.com/user-attachments/assets/eb2f77de-1abb-4bb9-b032-cbd50606d55d)
+
+
+
+
+
+
+
+
+# Installation Theme
+
+To install this theme, simply use the omarchy-theme-install command:
+
+```bash
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-lasthorizon-theme.git
+```
+## Vesktop-Theme
+For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
+```bash
+cp vencord.theme.lasthorizon.css ~/.config/vesktop/themes/vencord.theme.lasthorizon.css
+```
+
+## Waybar-Theme
+For my Waybar-Theme (V3 config & shadow_style_css) simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+
+### License
+MIT
