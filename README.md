@@ -2,6 +2,8 @@
 Mecha no Onna blends the warmth of humanity with the precision of the machine, inspired by the earthy tones of Gruvbox. 
 This theme bridges organic imperfection with mechanical elegance — a cyber-samurai aesthetic for Arch Linux, where tradition meets circuitry and emotion glows in amber light.
 # Screenshots
+<img width="2560" height="1440" alt="screenshot-2025-11-07_14-26-33" src="https://github.com/user-attachments/assets/d00213ab-bba5-4978-b693-975ed541cf69" />
+
 <img width="2560" height="1440" alt="screenshot-2025-11-06_23-49-18" src="https://github.com/user-attachments/assets/4202303d-97ef-4c9a-887b-f78118807640" />
 <img width="2560" height="1440" alt="screenshot-2025-11-07_17-07-33" src="https://github.com/user-attachments/assets/60f700de-ea00-4ee0-af18-5d86e5d335e0" />
 
