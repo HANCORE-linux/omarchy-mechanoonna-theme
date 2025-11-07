@@ -14,7 +14,7 @@
     --color01: #cc241d;
     --color02: #a89984;
     --color03: #ebdbb2;
-    --color04: #706e6b;
+    --color04: #ebdbb2;
     --color05: #afa499;
     --color06: #d4bd99;
     --color07: #fbf1c7;
@@ -26,4 +26,9 @@
     --color13: #d3869b;
     --color14: #8ec07c;
     --color15: #f0e4c5;
+
+
+    --base00: color-mix(in srgb, var(--color00) 77%, black) !important;
+    --base04: color-mix(in srgb, var(--color00) 5%, white) !important;
+
 }
