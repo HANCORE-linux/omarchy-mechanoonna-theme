@@ -21,12 +21,12 @@ This theme bridges organic imperfection with mechanical elegance — a cyber-sam
 To install this theme, simply use the omarchy-theme-install command:
 
 ```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-lasthorizon-theme.git
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git
 ```
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
 ```bash
-cp vencord.theme.lasthorizon.css ~/.config/vesktop/themes/vencord.theme.lasthorizon.css
+cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.lmechanoonna.css
 ```
 
 ## Waybar-Theme
