@@ -34,7 +34,7 @@ cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.lmechano
 - copy mechanoonna.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'mechanoonna' ```
 
 ## Waybar-Theme
-For my Waybar-Theme (V3 config & shadow_style_css) simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
 ### License
 MIT
