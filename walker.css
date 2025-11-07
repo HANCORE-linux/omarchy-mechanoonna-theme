@@ -43,7 +43,7 @@ window .search-container {
     padding: 12px 6px;
     margin: -2px;
     background: alpha(@base, 1);
-    box-shadow: inset 0 0 6px alpha(white, 0.05);
+    box-shadow: inset 0 0 6px alpha(#fbf1c7, 0.3);
     backdrop-filter: blur(8px);
 }
 
