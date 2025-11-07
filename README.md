@@ -27,6 +27,7 @@ cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.lmechano
 
 ## VSCode, ZED, Spotify , GTK Support
 - all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
+- VSCode: open VSCode and typ in search in extensions for Omarchy 
 
 ## Superfile Support
 - created a Theme for superfile
