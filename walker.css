@@ -72,7 +72,7 @@ window .item-box {
     padding: 5px 10px 0;
     margin: 0;
     background: alpha(@base, 0.45);
-    transition: all 120ms ease-in-out;
+    transition: all 20ms ease-in-out;
     backdrop-filter: blur(6px);
     max-height: 0px;
 }
