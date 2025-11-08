@@ -68,7 +68,7 @@ window .list {
 window .item-box {
     border: 2px solid transparent;
     border-radius: 8px;
-    padding: 0px 10px;
+    padding: 5px 10px 0;
     margin: 0;
     background: alpha(@base, 0.45);
     transition: all 120ms ease-in-out;
