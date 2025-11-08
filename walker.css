@@ -34,7 +34,7 @@ window .box-wrapper {
     margin: 0;
     box-shadow: 0 2px 12px alpha(#fbf1c7, 0.3);
     backdrop-filter: blur(10px);
-    line-height: 25%;
+    line-height: 1%;
 }
 
 window .search-container {
@@ -73,6 +73,7 @@ window .item-box {
     background: alpha(@base, 0.45);
     transition: all 120ms ease-in-out;
     backdrop-filter: blur(6px);
+    max-height: 0px;
 }
 
 window child:hover .item-box,
