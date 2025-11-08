@@ -23,7 +23,7 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
 ```bash
-cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.lmechanoonna.css
+cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.mechanoonna.css
 ```
 
 ## VSCode, ZED, Spotify , GTK Support
