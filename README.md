@@ -34,5 +34,8 @@ cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.mechanoo
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
 
+## Acknowledgments
+This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo).
+
 ### License
 MIT
