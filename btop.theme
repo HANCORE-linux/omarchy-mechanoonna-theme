@@ -5,7 +5,7 @@ theme[main_bg]="#32302f"
 theme[main_fg]="#f0e4c5"
 
 # Title color for boxes
-theme[title]="#a89984"
+theme[title]="##a89984"
 
 # Highlight color for keyboard shortcuts
 theme[hi_fg]="#fbf1c7"
@@ -30,41 +30,41 @@ theme[proc_box]="#fbf1c7"
 theme[div_line]="#7b6d60"
 
 # Gradient for all meters and graphs
-theme[temp_start]="#504945"
+theme[temp_start]="#a89984"
 theme[temp_mid]="#F2E5BC"
 theme[temp_end]="#fb4934"
 
 
-theme[cpu_start]="#504945"
+theme[cpu_start]="#a89984"
 theme[cpu_mid]="#F2E5BC"
 theme[cpu_end]="#fbf1c7"
 
 
-theme[free_start]="#504945"
+theme[free_start]="#a89984"
 theme[free_mid]="#F2E5BC"
 theme[free_end]="#fbf1c7"
 
 
-theme[cached_start]="#504945"
+theme[cached_start]="#a89984"
 theme[cached_mid]="#F2E5BC"
 theme[cached_end]="#fbf1c7"
 
 
-theme[available_start]="#504945"
+theme[available_start]="#a89984"
 theme[available_mid]="#F2E5BC"
 theme[available_end]="#fbf1c7"
 
 
-theme[used_start]="#504945"
+theme[used_start]="#a89984"
 theme[used_mid]="#F2E5BC"
 theme[used_end]="#fbf1c7"
 
 
-theme[download_start]="#504945"
+theme[download_start]="#a89984"
 theme[download_mid]="#F2E5BC"
 theme[download_end]="#fbf1c7"
 
 
-theme[upload_start]="#504945"
+theme[upload_start]="#a89984"
 theme[upload_mid]="#F2E5BC"
 theme[upload_end]="#fbf1c7"
