@@ -3,10 +3,7 @@ Mecha no Onna blends the warmth of humanity with the precision of the machine, i
 This theme bridges organic imperfection with mechanical elegance — a cyber-samurai aesthetic for Arch Linux, where tradition meets circuitry and emotion glows in amber light.
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-08_00-34-13" src="https://github.com/user-attachments/assets/0b7eb296-29d6-4409-bf77-f962e1920a05" />
-
-
-<img width="2560" height="1440" alt="screenshot-2025-11-06_23-49-18" src="https://github.com/user-attachments/assets/4202303d-97ef-4c9a-887b-f78118807640" />
-<img width="2560" height="1440" alt="screenshot-2025-11-07_17-07-33" src="https://github.com/user-attachments/assets/60f700de-ea00-4ee0-af18-5d86e5d335e0" />
+<img width="2560" height="1440" alt="screenshot-2025-11-08_11-34-39" src="https://github.com/user-attachments/assets/155ba650-6970-4ee4-ac99-9d35e70761ec" />
 
 
 # Backgrounds
