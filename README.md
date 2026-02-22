@@ -9,6 +9,9 @@ This theme bridges organic imperfection with mechanical elegance — a cyber-sam
 # Backgrounds
 <img width="1920" height="1080" alt="HOhWv6M" src="https://github.com/user-attachments/assets/43c6a2d3-68eb-4f7d-a9a2-6e257c27e7bd" />
 <img width="2560" height="1600" alt="BG2" src="https://github.com/user-attachments/assets/e17b4e9e-4388-458b-acc9-6a1684fe5573" />
+![BG3](https://github.com/user-attachments/assets/6af4272f-5f42-4e6f-b2f3-ba5b38af07e1)
+
+
 
 
 # Installation Theme
