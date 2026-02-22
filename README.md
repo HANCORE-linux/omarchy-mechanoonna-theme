@@ -27,16 +27,16 @@ For Vesktop users, you can install this theme by copying (usally from ~/Download
 cp vencord.theme.css ~/.config/vesktop/themes/vencord.theme.css
 ```
 
-## VSCode, ZED, Spotify , GTK Support
+## Spotify , GTK Support
 - all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
-- VSCode: click on manage (left down corner) > Themes > Color Theme > search for Omarchy
+
 
 ## Superfile Support
 - created a Theme for superfile
 - copy mechanoonna.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'mechanoonna' ```
 
 ## Waybar-Theme
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/waybar-themes
 
 ## Acknowledgments
 This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo).
