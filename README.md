@@ -1,6 +1,15 @@
 # Mecha no Onna (メカの女)
 Mecha no Onna blends the warmth of humanity with the precision of the machine, inspired by the earthy tones of Gruvbox. 
 This theme bridges organic imperfection with mechanical elegance — a cyber-samurai aesthetic for Arch Linux, where tradition meets circuitry and emotion glows in amber light.
+
+# Installation Theme
+
+To install this theme, simply use the omarchy-theme-install command:
+
+```bash
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git
+```
+
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-08_00-34-13" src="https://github.com/user-attachments/assets/0b7eb296-29d6-4409-bf77-f962e1920a05" />
 <img width="2560" height="1440" alt="screenshot-2025-11-08_11-34-39" src="https://github.com/user-attachments/assets/155ba650-6970-4ee4-ac99-9d35e70761ec" />
@@ -11,32 +20,11 @@ This theme bridges organic imperfection with mechanical elegance — a cyber-sam
 <img width="2560" height="1600" alt="BG2" src="https://github.com/user-attachments/assets/e17b4e9e-4388-458b-acc9-6a1684fe5573" />
 <img width="2560" height="1600" alt="BG3" src="https://github.com/user-attachments/assets/6af4272f-5f42-4e6f-b2f3-ba5b38af07e1"/>
 
+#### Waybar
+[LINK](https://github.com/HANCORE-linux/waybar-themes)
 
-
-
-# Installation Theme
-
-To install this theme, simply use the omarchy-theme-install command:
-
-```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git
-```
-## Vesktop-Theme
-For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
-```bash
-cp vencord.theme.css ~/.config/vesktop/themes/vencord.theme.css
-```
-
-## Spotify , GTK Support
-- all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
-
-
-## Superfile Support
-- created a Theme for superfile
-- copy mechanoonna.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'mechanoonna' ```
-
-## Waybar-Theme
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/waybar-themes
+#### Theme-Hook-Manager
+[Link](https://github.com/OldJobobo/theme-hook-plugin-manager)
 
 ## Acknowledgments
 This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo).
