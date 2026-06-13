@@ -1,44 +1,44 @@
-    @define-color background     #32302f;
+    @define-color background     #1c1b19;
     @define-color foreground     #f0e4c5;
-    @define-color black          #32302f;
-    @define-color red            #cc241d;
+    @define-color black          #1c1b19;
+    @define-color red            #c5564a;
     @define-color green          #a89984;
     @define-color yellow         #ebdbb2;
-    @define-color blue           #706e6b;
+    @define-color blue           #908d88;
     @define-color magenta        #afa499;
     @define-color cyan           #d4bd99;
     @define-color white          #fbf1c7;
-    @define-color bright_black   #7b6d60;
-    @define-color bright_red     #fb4934;
-    @define-color bright_green   #b8bb26;
-    @define-color bright_yellow  #fabd2f;
-    @define-color bright_blue    #83a598;
-    @define-color bright_magenta #d3869b;
-    @define-color bright_cyan    #8ec07c;
-    @define-color bright_white   #f0e4c5;
+    @define-color bright_black   #6b655c;
+    @define-color bright_red     #d94e38;
+    @define-color bright_green   #c2a571;
+    @define-color bright_yellow  #f7df97;
+    @define-color bright_blue    #aaa090;
+    @define-color bright_magenta #cbae8e;
+    @define-color bright_cyan    #e7c07c;
+    @define-color bright_white   #fff8e8;
 
     @define-color accent_bg_color @blue;
     @define-color accent_fg_color @background;
     @define-color accent_color @cyan;
 
-    @define-color window_bg_color @background;
+    @define-color window_bg_color alpha(@background, 0.78);
     @define-color window_fg_color @foreground;
 
-    @define-color view_bg_color @black;
+    @define-color view_bg_color alpha(@black, 0.78);
     @define-color view_fg_color @foreground;
-    @define-color sidebar_bg_color @black;
+    @define-color sidebar_bg_color alpha(@black, 0.76);
     @define-color sidebar_fg_color @foreground;
     @define-color sidebar_backdrop_color @black;
     @define-color sidebar_shade_color @black;
 
-    @define-color headerbar_bg_color @background;
+    @define-color headerbar_bg_color alpha(@background, 0.78);
     @define-color headerbar_fg_color @foreground;
     @define-color headerbar_backdrop_color @black;
     @define-color headerbar_shade_color @black;
-    @define-color card_bg_color @background;
+    @define-color card_bg_color alpha(@background, 0.82);
     @define-color card_fg_color @foreground;
 
-    @define-color popover_bg_color @black;
+    @define-color popover_bg_color alpha(@black, 0.92);
     @define-color popover_fg_color @foreground;
 
     @define-color destructive_bg_color @red;
@@ -53,15 +53,15 @@
     @define-color error_bg_color @red;
     @define-color error_fg_color @background;
 
-    @define-color dialog_bg_color @background;
+    @define-color dialog_bg_color alpha(@background, 0.88);
     @define-color dialog_fg_color @foreground;
 
     @define-color borders alpha(@foreground, 0.1);
 
     @define-color theme_fg_color @foreground;
     @define-color theme_text_color @foreground;
-    @define-color theme_bg_color @background;
-    @define-color theme_base_color @black;
+    @define-color theme_bg_color alpha(@background, 0.78);
+    @define-color theme_base_color alpha(@black, 0.78);
     @define-color theme_selected_bg_color @blue;
     @define-color theme_selected_fg_color @background;
     @define-color insensitive_bg_color @background;
@@ -80,8 +80,8 @@
     @define-color success_color @green;
     @define-color destructive_color @red;
 
-    @define-color content_view_bg @black;
-    @define-color text_view_bg @black;
+    @define-color content_view_bg alpha(@black, 0.78);
+    @define-color text_view_bg alpha(@black, 0.78);
 
     messagedialog {
         background-color: @dialog_bg_color;

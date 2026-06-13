@@ -8,22 +8,22 @@
     
 
     :root {
-        --color00: #282626;
-        --color01: #282626;
-        --color02: #201f1f;
-        --color03: #706e6b;
-        --color04: #f0e4c5;
+        --color00: #1c1b19;
+        --color01: #232220;
+        --color02: #2c2925;
+        --color03: #6b655c;
+        --color04: #a89984;
         --color05: #f0e4c5;
-        --color06: #a89984;
-        --color07: #fbf1c7;
-        --color08: #cc241d;
-        --color09: #ebdbb2;
-        --color10: #fbf1c7;
+        --color06: #fbf1c7;
+        --color07: #e7c07c;
+        --color08: #c5564a;
+        --color09: #d96a58;
+        --color10: #e7c07c;
         --color11: #a89984;
         --color12: #d4bd99;
-        --color13: #706e6b;
+        --color13: #908d88;
         --color14: #afa499;
-        --color15: #ebdbb2;
+        --color15: #cbae8e;
    --base00: var(--color00);
     --base01: var(--color01);
     --base02: var(--color02);
