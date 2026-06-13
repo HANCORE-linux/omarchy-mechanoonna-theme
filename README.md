@@ -1,14 +1,18 @@
-# Mecha no Onna (メカの女)
+# Mecha no Onna [V1] (メカの女)
 Mecha no Onna blends the warmth of humanity with the precision of the machine, inspired by the earthy tones of Gruvbox. 
 This theme bridges organic imperfection with mechanical elegance — a cyber-samurai aesthetic for Arch Linux, where tradition meets circuitry and emotion glows in amber light.
 
+> **This is V1 (the original).** The repository default is now **[V2](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme)** — a re-worked palette with frosted-glass blur. The standard `omarchy-theme-install` command installs **V2**.
+
 # Installation Theme
 
-To install this theme, simply use the omarchy-theme-install command:
+To install **V1** (this branch), clone it directly into your themes folder:
 
 ```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git
+git clone -b mechanoonna-v1 https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git ~/.config/omarchy/themes/mechanoonna-v1
 ```
+
+then select it via **Omarchy Menu > Style > Theme**.
 
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-08_00-34-13" src="https://github.com/user-attachments/assets/0b7eb296-29d6-4409-bf77-f962e1920a05" />
