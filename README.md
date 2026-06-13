@@ -28,9 +28,11 @@ then select it via **Omarchy Menu > Style > Theme**.
 ![Mecha no Onna V2](preview.png)
 
 # Demo
-<!-- Upload the video here: edit this README on GitHub, drag & drop
-     screenrecording-2026-06-13_23-31-39.mp4 into the editor — GitHub turns it
-     into a playable inline video (a https://github.com/user-attachments/... URL). -->
+
+
+https://github.com/user-attachments/assets/53d7342e-2952-4b70-889b-9420a8c2c807
+
+
 
 
 
