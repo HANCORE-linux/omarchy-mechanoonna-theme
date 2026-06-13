@@ -1,18 +1,37 @@
-# Mecha no Onna (メカの女)
-Mecha no Onna blends the warmth of humanity with the precision of the machine, inspired by the earthy tones of Gruvbox. 
-This theme bridges organic imperfection with mechanical elegance — a cyber-samurai aesthetic for Arch Linux, where tradition meets circuitry and emotion glows in amber light.
+# Mecha no Onna [V2] (メカの女)
 
-# Installation Theme
+A full re-work of Mecha no Onna — see the original [base branch (V1)](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme/tree/mechanoonna-v1).
 
-To install this theme, simply use the omarchy-theme-install command:
+**What's new in V2:** the palette was rebuilt from the muted-warm originals into a stronger, harmonised set — elevated normal colors plus a coherent bright tier (no more clashing gruvbox brights), on a deeper neutral background. On top of that, a consistent **frosted-glass / blur** layer runs across the whole desktop: terminal, on-screen display (SwayOSD), notifications (Mako), the launcher (Walker) and GTK apps — all tuned to the same warm palette. VS Code gets an exact, auto-generated **Omarchy** color theme, and every app config (foot / kitty / ghostty, Zed, btop, cava, Steam, Zen, Heroic, Vencord, …) is color-synced.
+
+**The goal:** a cohesive cyber-samurai aesthetic where tradition meets circuitry — warm amber tones behind a layer of soft glass.
+
+> **Prefer the original solid look?** Install the [V1 base branch](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme/tree/mechanoonna-v1) (see below).
+
+# Installation
+
+**V2 (this branch, default)** — simply use the omarchy-theme-install command:
 
 ```bash
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git
 ```
 
-# Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-11-08_00-34-13" src="https://github.com/user-attachments/assets/0b7eb296-29d6-4409-bf77-f962e1920a05" />
-<img width="2560" height="1440" alt="screenshot-2025-11-08_11-34-39" src="https://github.com/user-attachments/assets/155ba650-6970-4ee4-ac99-9d35e70761ec" />
+**V1 (original)** — clone the base branch instead:
+
+```bash
+git clone -b mechanoonna-v1 https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git ~/.config/omarchy/themes/mechanoonna-v1
+```
+
+then select it via **Omarchy Menu > Style > Theme**.
+
+# Screenshot
+![Mecha no Onna V2](preview.png)
+
+# Demo
+<!-- Upload the video here: edit this README on GitHub, drag & drop
+     screenrecording-2026-06-13_23-31-39.mp4 into the editor — GitHub turns it
+     into a playable inline video (a https://github.com/user-attachments/... URL). -->
+
 
 
 # Backgrounds
