@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/53d7342e-2952-4b70-889b-9420a8c2c807
 [LINK](https://github.com/HANCORE-linux/waybar-themes)
 
 #### Theme-Hook-Manager
-[Link](https://github.com/OldJobobo/theme-hook-plugin-manager) — provides the per-app theming hooks (VS Code "Omarchy" theme, GTK glass, Steam / Zen / …). Install it for the full experience.
+[Link](https://github.com/OldJobobo/theme-hook-plugin-manager)
 
 ## Acknowledgments
 This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo).
