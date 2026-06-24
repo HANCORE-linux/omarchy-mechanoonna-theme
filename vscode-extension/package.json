@@ -1,0 +1,22 @@
+{
+    "name": "theme-mechanoonna",
+    "displayName": "Mechanoonna Theme",
+    "description": "Mechanoonna color theme",
+    "publisher": "local",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mechanoonna",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mechanoonna-color-theme.json"
+            }
+        ]
+    }
+}
