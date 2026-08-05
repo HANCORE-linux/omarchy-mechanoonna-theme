@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for Mechanoonna.
+# Warm frosted glass, the cream-to-midnight Hyprland border, and Walker's
+# restrained cream selection carry the cyber-samurai identity into Quattro.
+
+[bar]
+background = "#1C1B19"
+background-alpha = 0.88
+text = "#F0E4C5"
+active = "#D4BD99"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "rgba(fbf1c7ee) rgba(1c1b19ee) 45deg"
+active-border-foreground = "#FBF1C7"
+
+[controls]
+normal-color = "#A89984"
+normal-fill-alpha = 0.05
+normal-border-width = 1
+normal-border-alpha = 0.30
+
+hover-cursor-color = "#D4BD99"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.50
+
+focus-color = "#FBF1C7"
+focus-fill-alpha = 0.12
+focus-border-width = 1
+focus-border-alpha = 0.82
+
+selected-color = "#F0E4C5"
+selected-fill-alpha = 0.18
+selected-border-width = 1
+selected-border-alpha = 0.46
+
+pressed-color = "#C2A571"
+pressed-fill-alpha = 0.22
+selection-color = "#706E6B"
+selection-fill-alpha = 0.38
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#1C1B19"
+background-alpha = 0.94
+text = "#F0E4C5"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+
+[tooltip]
+background = "#1C1B19"
+background-alpha = 0.88
+text = "#F0E4C5"
+border = "#6B655C"
+border-alpha = 0.76
+border-width = 1
+
+[notifications]
+background = "#1C1B19"
+background-alpha = 0.94
+text = "#F0E4C5"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+countdown = "#D4BD99"
+
+[launcher]
+background = "#1C1B19"
+background-alpha = 0.96
+text = "#A89984"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#1C1B19"
+scrim-alpha = 0.0
+selected-background = "#FBF1C7"
+selected-background-alpha = 0.36
+selected-text = "#1C1B19"
+selected-border = "#FBF1C7"
+selected-border-alpha = 0.50
+selected-border-width = 2
+
+[menu]
+background = "#1C1B19"
+background-alpha = 0.96
+text = "#A89984"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 2
+scrim = "#1C1B19"
+scrim-alpha = 0.0
+selected-background = "#FBF1C7"
+selected-background-alpha = 0.36
+selected-text = "#1C1B19"
+selected-border = "#FBF1C7"
+selected-border-alpha = 0.50
+selected-border-width = 2
+
+[polkit]
+background = "#1C1B19"
+background-alpha = 0.88
+text = "#F0E4C5"
+text-error = "#C5564A"
+border = "hyprland.active-border"
+border-error = "#C5564A"
+border-alpha = 1.0
+border-width = 2
+scrim = "#0E0B08"
+scrim-alpha = 0.48
+accent = "#D4BD99"
+
+[lock]
+background = "#1C1B19"
+background-alpha = 1.0
+text = "#F0E4C5"
+placeholder = "#A89984B3"
+text-error = "#C5564A"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#C5564A"
+border-alpha = 1.0
+border-width = 2
+selection = "#E7C07C"
+selection-alpha = 0.45
+
+[image-picker]
+scrim = "#0E0B08"
+scrim-alpha = 0.50
+text = "#F0E4C5"
+selected-border = "#D4BD99"
+selected-border-alpha = 1.0
+unselected-border = "#6B655C"
+unselected-border-alpha = 0.60
