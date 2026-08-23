@@ -96,19 +96,21 @@ selected-border-alpha = 0.50
 selected-border-width = 2
 
 [menu]
+# Walker-like Omarchy menu surface: warm glass, a restrained cream border,
+# and non-inverted selected rows.
 background = "#1C1B19"
-background-alpha = 0.96
+background-alpha = 0.88
 text = "#A89984"
-border = "hyprland.active-border"
-border-alpha = 1.0
+border = "#FBF1C7"
+border-alpha = 0.40
 border-width = 2
 scrim = "#1C1B19"
 scrim-alpha = 0.0
 selected-background = "#FBF1C7"
-selected-background-alpha = 0.36
-selected-text = "#1C1B19"
+selected-background-alpha = 0.18
+selected-text = "#A89984"
 selected-border = "#FBF1C7"
-selected-border-alpha = 0.50
+selected-border-alpha = 0.30
 selected-border-width = 2
 
 [polkit]

@@ -176,3 +176,10 @@ hl.layer_rule({
     namespace = "quickshell",
   },
 })
+hl.layer_rule({
+  blur = true,
+  ignore_alpha = 0.06,
+  match = {
+    namespace = "omarchy-menu",
+  },
+})
